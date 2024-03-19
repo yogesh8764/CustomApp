@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>AI Devices</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>AI Devices</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">3add499f702231107f44a29f360a7844</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 06:03:06</sys_created_on>
+        <sys_id>d4bbd259830102107f44f703ceda1edc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI Devices</sys_name>
+        <sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope>
+        <sys_update_name>sys_wizard_answer_d4bbd259830102107f44f703ceda1edc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 06:03:06</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_firstapp_ai_devices.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FirstAPP">626097c1834502107f44f703ceda1e10</application>
+        <file_path/>
+        <instance_id>4dd969ba87b4c6102e4dba26dabb3582</instance_id>
+        <instance_name>nowlearning-nlinst01551130-0001</instance_name>
+        <name>sys_wizard_answer_d4bbd259830102107f44f703ceda1edc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>AI Devices</answer><button_label/><dependent_value/><element/><name>AI Devices</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">3add499f702231107f44a29f360a7844</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-19 06:03:06</sys_created_on><sys_id>d4bbd259830102107f44f703ceda1edc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AI Devices</sys_name><sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package><sys_policy/><sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope><sys_update_name>sys_wizard_answer_d4bbd259830102107f44f703ceda1edc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-19 06:03:06</sys_updated_on><table/><target_url>x_cdltd_firstapp_ai_devices.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>341462929</payload_hash>
+        <record_name>AI Devices</record_name>
+        <reverted_from/>
+        <source>a9bbcd13702231107f44a29f360a7864</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-11-21 22:44:32</sys_created_on>
+        <sys_id>30b36a91834102107f44f703ceda1e39</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18bf40e7c800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>fcb36a91cf41021018374b5f16ed7538</update_guid>
+        <update_guid_history>fcb36a91cf41021018374b5f16ed7538:341462929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 06:38:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>4b0a6a46724b409c9b450bfb82cc96c9</sys_id>
+        <sys_metadata>d4bbd259830102107f44f703ceda1edc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI Devices</sys_name>
+        <sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package>
+        <sys_parent display_value="Base Configuration Item">3add499f702231107f44a29f360a7844</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope>
+        <sys_scope_delete display_value="">8b4953f818834e4db69cf75626160419</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_d4bbd259830102107f44f703ceda1edc</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_d4bbd259830102107f44f703ceda1edc">30b36a91834102107f44f703ceda1e39</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 06:38:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>FirstAPP</name>
+        <order/>
+        <roles>x_cdltd_probsolvo.device_manag,x_cdltd_probsolvo.dispatch_manag,x_cdltd_probsolvo.release_manag,x_cdltd_probsolvo.end_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 06:03:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08bbd259830102107f44f703ceda1e7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FirstAPP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope>
+        <sys_update_name>sys_ui_application_08bbd259830102107f44f703ceda1e7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 06:03:05</sys_updated_on>
+    </sys_ui_application>
+</record_update>
