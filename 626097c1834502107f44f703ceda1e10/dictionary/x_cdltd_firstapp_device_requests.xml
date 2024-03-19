@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f4115b4d834502107f44f703ceda1e7f" extends="task" label="Device Requests" max_length="40" name="x_cdltd_firstapp_device_requests" type="collection"/>
+    <element db_object_id="f4115b4d834502107f44f703ceda1e7f" extends="task" label="Device Requests" max_length="40" name="x_cdltd_firstapp_device_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_reference_1" reference="x_cdltd_firstapp_ai_devices" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requester Name" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="0" label="Quantity" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Requirement" max_length="40" name="u_string_5" type="string"/>
+    </element>
 </database>
