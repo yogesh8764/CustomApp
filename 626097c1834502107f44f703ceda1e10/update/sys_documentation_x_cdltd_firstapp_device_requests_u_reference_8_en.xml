@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_reference_8" label="Device Name" language="en" table="x_cdltd_firstapp_device_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_8</element>
+            <help/>
+            <hint/>
+            <label>Device Name</label>
+            <language>en</language>
+            <name>x_cdltd_firstapp_device_requests</name>
+            <plural>Device Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 17:28:48</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Device Name</sys_name>
+            <sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_firstapp_device_requests_u_reference_8_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 17:28:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
