@@ -11,9 +11,10 @@
         <name>Device and Delivery Details  Section </name>
         <order/>
         <script><![CDATA[function onLoad() {
+	if(g_form.setValue('u_reference_8') == ''){
   g_form.setSectionDisplay('delivery_details', false);
    g_form.setSectionDisplay('device_details', false);
-   
+	}
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -21,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2c73fce5b5c102107f443619fdc82ca8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Device and Delivery Details  Section </sys_name>
         <sys_overrides/>
         <sys_package display_value="FirstAPP" source="x_cdltd_firstapp">626097c1834502107f44f703ceda1e10</sys_package>
@@ -29,7 +30,7 @@
         <sys_scope display_value="FirstAPP">626097c1834502107f44f703ceda1e10</sys_scope>
         <sys_update_name>sys_script_client_2c73fce5b5c102107f443619fdc82ca8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-19 17:17:43</sys_updated_on>
+        <sys_updated_on>2024-03-24 06:38:13</sys_updated_on>
         <table>x_cdltd_firstapp_device_requests</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
